@@ -1,5 +1,5 @@
 {
-	"inbounds": {
+	"inbounds": [{
 		"port": "80",
 		"protocol": "vmess",
 		"settings": {
@@ -12,7 +12,7 @@
 				"path": "/elecV2"
 			}
 		}
-	},
+	}],
 	"outbound": {
 		"protocol": "freedom",
 		"settings": {}
